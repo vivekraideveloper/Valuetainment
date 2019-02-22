@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "738850142421",
+    "firebase_url": "https://valuetainment-a4a33.firebaseio.com",
+    "project_id": "valuetainment-a4a33",
+    "storage_bucket": "valuetainment-a4a33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738850142421:android:118b19a496342482",
+        "android_client_info": {
+          "package_name": "com.vivekrai.vivekraivaluetainment.valuetainment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738850142421-okl7d8nn0so6fh0smionjj5od21qdu93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vivekrai.vivekraivaluetainment.valuetainment",
+            "certificate_hash": "01e09bf00319c1b2c3414c9fe5a7940d45be4848"
+          }
+        },
+        {
+          "client_id": "738850142421-3pu81ntjsr33mh9ic2les97jolskq654.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCmewT7r_O2on3jRpA6vbti76kmIgXmdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738850142421-3pu81ntjsr33mh9ic2les97jolskq654.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
